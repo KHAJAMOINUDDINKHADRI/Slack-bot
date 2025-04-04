@@ -2,6 +2,9 @@
 
 A Slack bot that approves workflows. Users can request approvals from others, and approvers can approve or reject requests directly in Slack.
 
+check the [Demo Video](https://drive.google.com/file/d/1quIpGTLLEvVFGsHvJcb9_FzzIWXLTf8D/view?usp=share_link)
+
+
 ## Features
 - **Request Approvals**: Users can request approvals via the `/approval-test` slash command.
 - **Approve/Reject Requests**: Approvers can approve or reject requests with buttons.
